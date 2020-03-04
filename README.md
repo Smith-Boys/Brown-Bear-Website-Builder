@@ -1,5 +1,6 @@
 # Brown-Bear-Website-Builder Codecademy
 
+<!DOCTYPE html>
 <body>
   <h1>The Brown Bear</h1>
   <div id="introduction">
